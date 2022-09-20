@@ -13,3 +13,10 @@ See [ANTLR Website](https://www.antlr.org/) for the original distribution of ANT
 - variable value : path to repo ex. 'C:\Users\asayedal\Downloads\antlr4-master'
 - add new Path : %ANTLR4_HOME%\bin
 - add new Path : %JAVA_HOME%\bin
+
+## run 
+- cd %ANTLR4_HOME%\sample ex. 'C:\Users\asayedal\Downloads\antlr4-master\sample'
+- open cmd 
+- antlr4 A2ML
+- compile A2ML*.java
+- grun A2ML a2ml -gui
